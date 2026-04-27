@@ -17,12 +17,7 @@ data/
 *.xlsx
 *.parquet
 
-# Model files
-models/
-*.pkl
-*.h5
-*.joblib
-*.onnx
+
 
 # MLflow
 mlruns/
