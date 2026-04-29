@@ -1,42 +1,4 @@
-# Python
+venv/
+.git/
 __pycache__/
 *.pyc
-
-# Virtual environments
-venv/
-.venv/
-myvenv/
-./myvenv
-
-# Environment variables
-.env
-
-# Data files
-data/
-*.csv
-*.xlsx
-*.parquet
-
-
-
-# MLflow
-mlruns/
-mlartifacts/
-
-# DVC (if not tracking)
-.dvc/cache/
-
-# Logs
-logs/
-*.log
-
-# Jupyter
-.ipynb_checkpoints/
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
